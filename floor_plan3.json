@@ -1,0 +1,508 @@
+{
+    "point_b_to_a_map": {
+        "(88, 183)": [
+            {
+                "coordinates": [64, 183],
+                "value": "305"
+            },
+            {
+                "coordinates": [116, 184],
+                "value": "302"
+            }
+        ],
+        "(88, 220)": [
+            {
+                "coordinates": [64, 226],
+                "value": "307"
+            },
+            {
+                "coordinates": [115, 211],
+                "value": "304"
+            },
+            {
+                "coordinates": [114, 227],
+                "value": "306"
+            }
+        ],
+        "(88, 256)": [
+            {
+                "coordinates": [115, 254],
+                "value": "308"
+            }
+        ],
+        "(88, 283)": [
+            {
+                "coordinates": [63, 283],
+                "value": "309"
+            },
+            {
+                "coordinates": [116, 278],
+                "value": "308A"
+            }
+        ],
+        "(88, 327)": [
+            {
+                "coordinates": [116, 327],
+                "value": "310"
+            },
+            {
+                "coordinates": [61, 327],
+                "value": "311"
+            }
+        ],
+        "(88, 368)": [
+            {
+                "coordinates": [116, 367],
+                "value": "312"
+            }
+        ],
+        "(88, 415)": [
+            {
+                "coordinates": [116, 411],
+                "value": "314"
+            },
+            {
+                "coordinates": [60, 417],
+                "value": "313"
+            }
+        ],
+        "(88, 453)": [
+            {
+                "coordinates": [64, 454],
+                "value": "315"
+            },
+            {
+                "coordinates": [114, 452],
+                "value": "318"
+            }
+        ],
+        "(88, 489)": [
+            {
+                "coordinates": [68, 487],
+                "value": "317"
+            }
+        ],
+        "(88, 531)": [
+            {
+                "coordinates": [114, 529],
+                "value": "320"
+            },
+            {
+                "coordinates": [67, 527],
+                "value": "319"
+            }
+        ],
+        "(88, 561)": [
+            {
+                "coordinates": [64, 558],
+                "value": "321"
+            }
+        ],
+        "(88, 583)": [],
+        "(171, 584)": [
+            {
+                "coordinates": [183, 551],
+                "value": "324"
+            }
+        ],
+        "(224, 584)": [
+            {
+                "coordinates": [225, 555],
+                "value": "326"
+            },
+            {
+                "coordinates": [216, 607],
+                "value": "323"
+            }
+        ],
+        "(258, 585)": [
+            {
+                "coordinates": [258, 555],
+                "value": "1"
+            }
+        ],
+        "(331, 583)": [
+            {
+                "coordinates": [331, 554],
+                "value": "328"
+            },
+            {
+                "coordinates": [337, 612],
+                "value": "331"
+            }
+        ],
+        "(388, 585)": [
+            {
+                "coordinates": [388, 616],
+                "value": "333"
+            }
+        ],
+        "(403, 583)": [
+            {
+                "coordinates": [404, 617],
+                "value": "335"
+            }
+        ],
+        "(422, 584)": [
+            {
+                "coordinates": [423, 614],
+                "value": "337"
+            },
+            {
+                "coordinates": [421, 558],
+                "value": "336"
+            }
+        ],
+        "(454, 581)": [
+            {
+                "coordinates": [455, 615],
+                "value": "341"
+            }
+        ],
+        "(489, 587)": [
+            {
+                "coordinates": [483, 616],
+                "value": "343"
+            },
+            {
+                "coordinates": [490, 554],
+                "value": "348"
+            }
+        ],
+        "(546, 585)": [
+            {
+                "coordinates": [544, 555],
+                "value": "350"
+            },
+            {
+                "coordinates": [544, 618],
+                "value": "345"
+            }
+        ],
+        "(613, 588)": [
+            {
+                "coordinates": [618, 555],
+                "value": "352"
+            },
+            {
+                "coordinates": [612, 615],
+                "value": "347"
+            }
+        ],
+        "(665, 587)": [
+            {
+                "coordinates": [668, 555],
+                "value": "354"
+            },
+            {
+                "coordinates": [666, 615],
+                "value": "Lk1"
+            }
+        ],
+        "(695, 587)": [
+            {
+                "coordinates": [697, 554],
+                "value": "356"
+            },
+            {
+                "coordinates": [689, 615],
+                "value": "349A"
+            },
+            {
+                "coordinates": [705, 616],
+                "value": "349"
+            }
+        ],
+        "(730, 585)": [
+            {
+                "coordinates": [720, 614],
+                "value": "351"
+            },
+            {
+                "coordinates": [740, 615],
+                "value": "353"
+            },
+            {
+                "coordinates": [731, 554],
+                "value": "358"
+            }
+        ],
+        "(777, 587)": [
+            {
+                "coordinates": [773, 619],
+                "value": "353A"
+            },
+            {
+                "coordinates": [790, 618],
+                "value": "355"
+            },
+            {
+                "coordinates": [780, 557],
+                "value": "360"
+            }
+        ],
+        "(857, 581)": [],
+        "(911, 575)": [
+            {
+                "coordinates": [943, 548],
+                "value": "357"
+            }
+        ],
+        "(912, 550)": [
+            {
+                "coordinates": [943, 548],
+                "value": "359A"
+            }
+        ],
+        "(914, 523)": [
+            {
+                "coordinates": [944, 525],
+                "value": "361"
+            }
+        ],
+        "(912, 488)": [
+            {
+                "coordinates": [940, 495],
+                "value": "363A"
+            },
+            {
+                "coordinates": [886, 499],
+                "value": "366"
+            },
+            {
+                "coordinates": [884, 471],
+                "value": "368"
+            }
+        ],
+        "(912, 431)": [
+            {
+                "coordinates": [941, 436],
+                "value": "365"
+            },
+            {
+                "coordinates": [883, 423],
+                "value": "370"
+            }
+        ],
+        "(911, 391)": [
+            {
+                "coordinates": [934, 390],
+                "value": "367"
+            },
+            {
+                "coordinates": [881, 382],
+                "value": "372"
+            }
+        ],
+        "(910, 354)": [
+            {
+                "coordinates": [935, 359],
+                "value": "369"
+            },
+            {
+                "coordinates": [883, 354],
+                "value": "374"
+            }
+        ],
+        "(911, 328)": [
+            {
+                "coordinates": [885, 328],
+                "value": "376"
+            },
+            {
+                "coordinates": [936, 326],
+                "value": "371A"
+            }
+        ],
+        "(910, 291)": [
+            {
+                "coordinates": [883, 293],
+                "value": "378"
+            },
+            {
+                "coordinates": [938, 285],
+                "value": "373"
+            },
+            {
+                "coordinates": [936, 303],
+                "value": "371"
+            }
+        ],
+        "(912, 266)": [],
+        "(873, 263)": [],
+        "(874, 231)": [
+            {
+                "coordinates": [915, 228],
+                "value": "353lk"
+            }
+        ],
+        "(875, 141)": [
+            {
+                "coordinates": [899, 118],
+                "value": "357lk"
+            },
+            {
+                "coordinates": [931, 115],
+                "value": "355lk"
+            }
+        ],
+        "(832, 141)": [
+            {
+                "coordinates": [827, 117],
+                "value": "361lk"
+            },
+            {
+                "coordinates": [844, 114],
+                "value": "359lk"
+            }
+        ],
+        "(760, 141)": [
+            {
+                "coordinates": [751, 112],
+                "value": "363lk"
+            },
+            {
+                "coordinates": [772, 164],
+                "value": "364lk"
+            }
+        ],
+        "(743, 141)": [
+            {
+                "coordinates": [743, 170],
+                "value": "366Alk"
+            }
+        ],
+        "(701, 140)": [
+            {
+                "coordinates": [692, 114],
+                "value": "367lk"
+            },
+            {
+                "coordinates": [708, 115],
+                "value": "365lk"
+            },
+            {
+                "coordinates": [705, 163],
+                "value": "366lk"
+            }
+        ],
+        "(640, 140)": [
+            {
+                "coordinates": [640, 115],
+                "value": "369lk"
+            }
+        ],
+        "(560, 140)": [
+            {
+                "coordinates": [564, 115],
+                "value": "371lk"
+            },
+            {
+                "coordinates": [563, 166],
+                "value": "368lk"
+            }
+        ],
+        "(540, 138)": [
+            {
+                "coordinates": [540, 117],
+                "value": "373lk"
+            }
+        ],
+        "(479, 140)": [
+            {
+                "coordinates": [479, 115],
+                "value": "375lk"
+            },
+            {
+                "coordinates": [479, 167],
+                "value": "370lk"
+            }
+        ],
+        "(460, 141)": [
+            {
+                "coordinates": [456, 164],
+                "value": "372lk"
+            }
+        ],
+        "(413, 139)": [
+            {
+                "coordinates": [412, 114],
+                "value": "381lk"
+            },
+            {
+                "coordinates": [427, 162],
+                "value": "374lk"
+            },
+            {
+                "coordinates": [428, 119],
+                "value": "377lk"
+            }
+        ],
+        "(364, 140)": [
+            {
+                "coordinates": [366, 111],
+                "value": "381Alk"
+            },
+            {
+                "coordinates": [364, 162],
+                "value": "376Alk"
+            }
+        ],
+        "(344, 138)": [
+            {
+                "coordinates": [345, 167],
+                "value": "378Alk"
+            }
+        ],
+        "(318, 139)": [
+            {
+                "coordinates": [324, 112],
+                "value": "383lk"
+            },
+            {
+                "coordinates": [310, 167],
+                "value": "378Blk"
+            }
+        ],
+        "(278, 140)": [
+            {
+                "coordinates": [273, 115],
+                "value": "385lk"
+            },
+            {
+                "coordinates": [280, 165],
+                "value": "380lk"
+            }
+        ],
+        "(246, 139)": [],
+        "(245, 169)": [],
+        "(150, 169)": [],
+        "(121, 161)": [],
+        "(90, 159)": [
+            {
+                "coordinates": [61, 154],
+                "value": "303"
+            }
+        ],
+        "(89, 111)": [
+            {
+                "coordinates": [128, 120],
+                "value": "300"
+            },
+            {
+                "coordinates": [66, 112],
+                "value": "301"
+            }
+        ],
+        "(88, 183)": [
+            {
+                "coordinates": [64, 183],
+                "value": "305"
+            },
+            {
+                "coordinates": [116, 184],
+                "value": "302"
+            }
+        ]
+    }
+}
